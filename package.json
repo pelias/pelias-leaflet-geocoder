@@ -50,7 +50,7 @@
   "devDependencies": {
     "browserify": "14.3.0",
     "browserify-derequire": "0.9.4",
-    "browserify-shim": "3.8.14",
+    "browserify-shim": "3.8.16",
     "clean-css-cli": "4.0.12",
     "eslint": "3.19.0",
     "eslint-config-semistandard": "11.0.0",
